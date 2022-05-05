@@ -1,0 +1,4 @@
+def adventure():
+  print ('you have entered the forest of death and have come to a fork in the train do you turn left or right')
+print ('welcome traveler I can see that you have come here of an adventure')
+print ('if you are ready to start your adventure repeat after me start')
